@@ -54,9 +54,8 @@ HA_01/
 * Move/Delete logs : Raju
 * Search using Regex : Ibrahim
 * Metadata management :Nawshad
-📄 Output :>>
+  
 
----
 
 ## 🧰 Technologies Used
 
@@ -71,18 +70,8 @@ HA_01/
 ## 📄 Example Output
 
 ```
-=== Airport Luggage Smart System ===
-Generating log files...
 
-Reading log file: data/logs/vehicles/V101/2025-10-23.log
-2025-10-23T11:30:15Z | EQUIP=V101 | EVENT=Pickup | EVENT=Pickup|BAG=BG445612|GATE=A14
 
-Filtering 'Pickup' events with Regex...
-2025-10-23T11:30:15Z | EQUIP=V101 | EVENT=Pickup | EVENT=Pickup|BAG=BG445612|GATE=A14
-
-Archived logs to: data/archive/logs-2025-10-23.zip
-All tasks complete.
-===============================
 ```
 
 
