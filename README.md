@@ -31,8 +31,8 @@ The main purpose is to demonstrate:
 ## 🗂️ Project Structure
 
 ```
-AirportLuggageSystem/
-├─ src/com/airport/luggage/
+HA_01/
+├─ src/AirportBaggageHandlingSystem/
 │  ├─ LogRecord.java
 │  ├─ LogService.java
 │  ├─ FileManager.java
@@ -47,6 +47,14 @@ AirportLuggageSystem/
 │  └─ archive/
 └─ README.md
 ```
+* Create log files : Ibrahim
+* Write and read logs : Raju
+* Simulate data exchange: Ibrahim
+* Archive logs : Nawshad
+* Move/Delete logs : Raju
+* Search using Regex : Ibrahim
+* Metadata management :Nawshad
+📄 Output :>>
 
 ---
 
