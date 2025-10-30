@@ -47,6 +47,7 @@ HA_01/
 │  └─ archive/
 └─ README.md
 ```
+# Role Distribution:
 * Create log files : Ibrahim
 * Write and read logs : Raju
 * Simulate data exchange: Ibrahim
