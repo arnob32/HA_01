@@ -1,4 +1,4 @@
-package CapstoneProject25;
+package AirportBaggageHandlingSystem;
 
 import java.io.*;
 import java.nio.file.*;
